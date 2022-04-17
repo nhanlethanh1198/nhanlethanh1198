@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/nhanlethanh1198?label=follow&style=social)](https://github.com/nhanlethanh1198)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="50"> A little more about me...  
 
 ```javascript
 const Nhan = {
