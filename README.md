@@ -13,7 +13,7 @@
 const Nhan = {
   pronouns: "he",
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, MaterialUi],
+  tools: [React, Redux, Node, MaterialUi, NestJs],
   challenge: "I am doing the #100DaysOfCode challenge focused on nodejs and typescript"
 }
 ```
