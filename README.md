@@ -1,6 +1,6 @@
 <h2> Hi, I'm Le Thanh Nhan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220">
-<p><em>Information Security Engineer at <a href="http://actvn.edu.vn/">Academy of Cryptography Techichques</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelancer Developer at home<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Information Security Engineer at <a href="http://actvn.edu.vn/">Academy of Cryptography Techichques</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Backend Developer at <a href="https://hitek.com.vn/">HITEK JSC Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: nhanlethanh1198](https://img.shields.io/badge/-nhanlethanh1198-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhanlethanh1198/)](https://www.linkedin.com/in/nhanlethanh1198/)
