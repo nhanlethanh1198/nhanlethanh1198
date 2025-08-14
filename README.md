@@ -12,55 +12,69 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlethanh1198&layout=compact&theme=buefy&hide_border=true" />
 
-<div align="center">
-  
-# 👋 Hi, I'm Le Thanh Nhan
+---
 
-**Freelance Backend Developer**
-
-🔹 5+ years of experience in backend development
-🔹 Strong expertise in Node.js, Python, and cloud services (AWS, GCP)
-🔹 Experienced in designing scalable RESTful APIs, microservices, and system architecture
+🔹 5+ years of experience in backend development  
+🔹 Strong expertise in Node.js, Python, and cloud services (AWS, GCP)  
+🔹 Experienced in designing scalable RESTful APIs, microservices, and system architecture  
 🔹 Passionate about clean code, automation, and DevOps
 
 ---
 
-## 🛠️ Skills
-
-- Node.js, Python, JavaScript
-- Express.js, FastAPI
-- PostgreSQL, MongoDB, Redis
-- Docker, Kubernetes
-- AWS, GCP
-- CI/CD, Git, GitHub Actions
-
-## 💼 Experience
-
-- Freelance Backend Developer for various startups and SMEs
-- Designed and implemented high-performance backend systems
-- Integrated third-party services and payment gateways
-- Automated deployment and monitoring solutions
-
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/nhanlethanh1198/)
-- Email: <nhanlethanh1198@gmail.com>
-
----
-
-> Always learning, always building.
-
-</div>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
+## 👨‍💻 A little more about me
 
 ```javascript
 const Nhan = {
   pronouns: "he",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, MaterialUi, NestJs],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
+  tools: ["React", "Redux", "Node", "MaterialUI", "NestJS"],
   challenge: "I am doing the #100DaysOfCode challenge focused on nodejs and typescript"
 }
 ```
 
-<img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+> I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! 😊
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Frameworks:**
+
+- Node.js, Python, JavaScript
+- Express.js, FastAPI
+
+**Databases:**
+
+- PostgreSQL, MongoDB, Redis
+
+**DevOps & Cloud:**
+
+- Docker, Kubernetes
+- AWS, GCP
+- CI/CD, Git, GitHub Actions
+
+---
+
+## 💼 Professional Experience
+
+**Freelance Backend Developer**
+
+- Working with various startups and SMEs
+- Designed and implemented high-performance backend systems  
+- Integrated third-party services and payment gateways
+- Automated deployment and monitoring solutions
+
+---
+
+## 📫 Get In Touch
+
+**Connect with me:**
+
+- 🔗 LinkedIn: [nhanlethanh1198](https://www.linkedin.com/in/nhanlethanh1198/)
+- 📧 Email: <nhanlethanh1198@gmail.com> | <nhanlethanh.dev@gmail.com>
+- 📍 Location: Vietnam
+- ✅ Status: Available for freelance projects
+
+---
+
+> Always learning, always building.
