@@ -66,6 +66,9 @@ const Nhan = {
 
 ---
 
+## Contributor Graph
+![nhanlethanh1198's Contributions](https://github.pumbas.net/api/contributions/nhanlethanh1198)
+
 ## 📫 Get In Touch
 
 **Connect with me:**
