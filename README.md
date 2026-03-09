@@ -15,7 +15,7 @@
 ---
 
 🔹 5+ years of experience in backend development  
-🔹 Strong expertise in Node.js, Python, and cloud services (AWS, GCP)  
+🔹 Strong expertise in Node.js, Python, and cloud services (AWS)  
 🔹 Experienced in designing scalable RESTful APIs, microservices, and system architecture  
 🔹 Passionate about clean code, automation, and DevOps
 
