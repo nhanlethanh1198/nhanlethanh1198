@@ -26,9 +26,8 @@
 ```javascript
 const Nhan = {
   pronouns: "he",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "Python"],
-  tools: ["React", "Redux", "Node", "MaterialUI", "NestJS"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on nodejs and typescript"
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Golang"],
+  tools: ["React", "Redux", "Node", "MaterialUI", "NestJS"]
 }
 ```
 
