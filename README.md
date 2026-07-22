@@ -122,8 +122,13 @@ Strong at turning messy requirements into stable features — APIs, realtime cha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nhanlethanh1198&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhanlethanh1198&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhanlethanh1198&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhanlethanh1198&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhanlethanh1198&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhanlethanh1198&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
@@ -131,10 +136,13 @@ Strong at turning messy requirements into stable features — APIs, realtime cha
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhanlethanh1198&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <b>Contribution Graph</b><br/>
+  <img src="https://ghchart.rshah.org/58a6ff/nhanlethanh1198" alt="GitHub Contribution Chart" />
 </p>
 
-![GitHub Contributor Graph](https://github-contributor-stats.vercel.app/api?username=nhanlethanh1198&limit=5)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nhanlethanh1198&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+</p>
 
 ---
 
